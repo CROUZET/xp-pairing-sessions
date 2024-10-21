@@ -1,4 +1,4 @@
-# Vocabulary
+# VOCABULARY
 
 Take a common ruby class and play with unknown methods.
 

@@ -1,4 +1,4 @@
-# Kata
+# KATA
 
 Do an exercise. Write the class and the tests.
 

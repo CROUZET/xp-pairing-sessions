@@ -1,4 +1,4 @@
-# Implem Comparison
+# IMPLEMENTATION COMPARISON
 
 Take at least 2 different exercise implementations and discuss about it
 
